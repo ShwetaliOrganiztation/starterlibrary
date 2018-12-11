@@ -1,5 +1,12 @@
 {
   "input_datatypes": [
+    {
+       "name": "vSphereCloud"
+       "label": "vSphere Cloud Params"
+    },{
+       "name": "vSphereVM"
+       "label": "vSphere VM Params"
+    }
   ],
   "output_datatype": "content_template_output",
   "input_groups": [
