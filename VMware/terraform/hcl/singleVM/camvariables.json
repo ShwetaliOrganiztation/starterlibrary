@@ -4,7 +4,7 @@
        "name": "vSphereCloud",
        "label": "vSphere Cloud Params"
     },{
-       "name": "vSphereVM",
+       "name": "vSphereVirtualMachine",
        "label": "vSphere VM Params"
     }
   ],
