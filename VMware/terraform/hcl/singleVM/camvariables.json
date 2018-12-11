@@ -1,10 +1,10 @@
 {
   "input_datatypes": [
     {
-       "name": "vSphereCloud"
+       "name": "vSphereCloud",
        "label": "vSphere Cloud Params"
     },{
-       "name": "vSphereVM"
+       "name": "vSphereVM",
        "label": "vSphere VM Params"
     }
   ],
